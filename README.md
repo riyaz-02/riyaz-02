@@ -17,6 +17,8 @@
    Campus Mantri & TCW @ GeeksforGeeks | Contingent Leader & Indigo Squad Member @Mood Indigo IIT Bombay 🤓 | Ex-Internshala Student Partner 🎓 | Tech Enthusiast 🧑‍💻
 </p>
 
+<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='right'>
+
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 - 🏦 I'm a Web Developer. 
@@ -26,16 +28,78 @@
 - 💻 I use daily: **.html**, **.css**, **.js**, **.java**
 - 📖 I am currently reading **Designing Data Intensive Application** by Martin Kleppmann
 
+
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="45" /> My Fav Tech Stack:
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> &nbsp;
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/> &nbsp;
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/> &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="spring" width="55" height="55"/> &nbsp;
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/> &nbsp;
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/> &nbsp;
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/> &nbsp;
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/> &nbsp;
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Nodejs" width="55" height="55"/> &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="Nodejs" width="55" height="55"/> &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Nodejs" width="55" height="55"/> &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="Nodejs" width="55" height="55"/> &nbsp;
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="Nodejs" width="55" height="55"/> &nbsp;
       <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/>
 </p>
+
+## <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" /> My GitHub Progress
+<center>
+
+[![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyaz-02&show_icons=true&theme=highcontrast&rank_icon=github)](https://github.com/riyaz-02/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=riyaz-02&theme=highcontrast&border_radius=5&card_width=520)](https://git.io/streak-stats)
+</center>
+
+## 🏆 GitHub Profile Trophy
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=riyaz-02&theme=juicyfresh&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+## 💥 Top Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaz-02&repo=My-Portfolio&theme=highcontrast)](https://github.com/riyaz-02/My-Portfolio) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaz-02&repo=My-Portfolio&theme=highcontrast)](https://github.com/riyaz-02/My-Portfolio)
+
+
+<center>
+      <font size="1">  
+                                                                                                    
+                                      -=-::::                                                       
+                                  .-+%%%%%@%*=-..                                                   
+                              ++*%@@@@@@@@@@@@@@@@%#=--.                                            
+                            .#@@@@@@@@@@@@@@@@@@@@@@@@@%#=.                                         
+                           .@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%=-.=:                                    
+                          .%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%**+.                                   
+                          *@@@@@@@@%%##########%%%%@@@@@@@@@%##-                                    
+                          #@@@@@@%#**+++========+++***#%@@@@@%#:                                    
+                          +@@@@@#***++++==========++++**#%@@@@@%                                    
+                          -@@@@#****++++===========+++++**%@@@@#                                    
+                           %@@%#***++========--======+++++*%@@%.                                    
+                           :@@%##%#####*++=======++++++++++#@@:                                     
+                            @@########%%%##++++##%%%###**++*%#                                      
+                           .%@####%%#%%*#***+++**%#%%###*+=#@-                                      
+                           -#%###***********+++**********++##*                                      
+                           :*###*++++++++*+===++++++++++++=*+*.                                     
+                            #%#*+++====++**++++*+++=====+++#*-                                      
+                            +%#**+++====+*++*****+========+*+                                       
+                             -##*++++##*+****+***++*+=+++++=.                                       
+                              :##***####****++****#%%+++++-                                         
+                               :###***++++++*+++++++*+***-                                          
+                                .*%##**++++++===++++**##:                                           
+                                  #%%%###**++++***#####+                                            
+                                  +#%%%%@@@@%@@@%%%%%#+=                                            
+                                  -**#%%@@@@@@@@@%#**+++-:                                          
+                                 :+*******##*****++++++++%%+---:.                                   
+                            .=*#%****+++++++++++++=++++**%@@@@@@@@%*+-:                             
+                        :=*%@@@@@***++++++==========+++#@@@@@@@@@@@@@@%%#*+-.                       
+                   .-+#@@@@@@@@@@@#+++++===========+*#%@@@@@@@@@@@@@@@@@@@@%%#+-.                   
+               .-+%@@@@@@@@@@@@@@@@@%#**++++++**#%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%*-                 
+            :+%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%#-               
+          :%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@%%%@@%%%%%%#-             
+         *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@%%@@%%%%%%%%%*:           
+        *@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%@@%%@@%@%%%%%%%%%+          
+       +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@%@@%%%%%%%%%%:        
+      -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@%@@%%%%%%%%+       
+
+</font>
