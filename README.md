@@ -1,10 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
+<center>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=500&color=F78100&center=true&vCenter=true&random=false&width=435&lines=Hello+There%2C+%F0%9F%91%8B;I'm+Sk+Riyaz)](https://git.io/typing-svg)
 
+</center>
+
 <p align="center">
-<a href="mailto:matyo91@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="5%" alt="email"/></a> &nbsp;
+<a href="mailto:skriyaz.dev@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" width="5%" alt="email"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/mathieu-ledru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" width="5%" alt="linkedin"/></a> &nbsp;
 <a href="https://discord.gg/tMDCF8RyvE"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" width="5%" alt="discord"/></a> &nbsp;
 <a href="https://twitter.com/matyo91"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" width="5%" alt="twitter"/></a> &nbsp;
@@ -17,7 +20,6 @@
    Campus Mantri & TCW @ GeeksforGeeks | Contingent Leader & Indigo Squad Member @Mood Indigo IIT Bombay 🤓 | Ex-Internshala Student Partner 🎓 | Tech Enthusiast 🧑‍💻
 </p>
 
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='right'>
 
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
@@ -44,11 +46,13 @@
 </p>
 
 ## <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" /> My GitHub Progress
+
 <center>
 
 [![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyaz-02&show_icons=true&theme=highcontrast&rank_icon=github)](https://github.com/riyaz-02/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=riyaz-02&theme=highcontrast&border_radius=5&card_width=520)](https://git.io/streak-stats)
+
 </center>
 
 ## 🏆 GitHub Profile Trophy
