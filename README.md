@@ -46,12 +46,12 @@
 
 ## <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="45" /> My GitHub Progress
 
-<p align="center">
+<center>
 
 [![Riyaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=riyaz-02&show_icons=true&theme=highcontrast&rank_icon=github)](https://github.com/riyaz-02/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=riyaz-02&theme=highcontrast&border_radius=5&card_width=520)](https://git.io/streak-stats)
-</p>
+</center>
 
 ## 🏆 GitHub Profile Trophy
 
