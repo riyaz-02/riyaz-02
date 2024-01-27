@@ -64,7 +64,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaz-02&repo=My-Portfolio&theme=highcontrast)](https://github.com/riyaz-02/My-Portfolio) &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaz-02&repo=My-Portfolio&theme=highcontrast)](https://github.com/riyaz-02/My-Portfolio)
 
-<div align="center">
+<div align="center" width=5%>
 <p> 
                                                                                                     
                                       -=-::::                                                       
