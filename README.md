@@ -64,8 +64,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaz-02&repo=My-Portfolio&theme=highcontrast)](https://github.com/riyaz-02/My-Portfolio) &nbsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaz-02&repo=My-Portfolio&theme=highcontrast)](https://github.com/riyaz-02/My-Portfolio)
 
-
-<p align="center"> 
+<div align="center">
+<p> 
                                                                                                     
                                       -=-::::                                                       
                                   .-+%%%%%@%*=-..                                                   
@@ -104,3 +104,4 @@
        +@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@%@@%%%%%%%%%%:        
       -@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@%@@%%%%%%%%+       
 </p>
+</div>
