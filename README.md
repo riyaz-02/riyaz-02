@@ -15,7 +15,7 @@
 <a href="https://twitter.com/_SkRiyaz"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" width="5%" alt="twitter"/></a> &nbsp;
 <a href="https://www.facebook.com/sk.riyaz.562329/"><img src="https://img.icons8.com/color/96/000000/facebook.png" width="5%" alt="facebook"/></a> &nbsp;
 <a href="https://www.instagram.com/theriyaz.sk/"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" width="5%" alt="instagram"/></a> &nbsp;
-<a href="https://www.reddit.com/"><img src="https://img.icons8.com/color/96/000000/reddit.png" width="5%" alt="reddit"/></a> &nbsp;
+<a href="https://www.reddit.com"><img src="https://img.icons8.com/color/96/000000/reddit.png" width="5%" alt="reddit"/></a> &nbsp;
 </p>
 
 <p align="center">
