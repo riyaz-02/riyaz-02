@@ -65,7 +65,7 @@
 ## 💥 Top Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaz-02&repo=My-Portfolio&theme=highcontrast)](https://github.com/riyaz-02/My-Portfolio) &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaz-02&repo=My-Portfolio&theme=highcontrast)](https://github.com/riyaz-02/My-Portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=riyaz-02&repo=Diversion_TouchMap&theme=highcontrast)](https://github.com/riyaz-02/Diversion_TouchMap)
 
 <div align="center">
 <p> 
